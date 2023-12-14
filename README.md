@@ -12,5 +12,5 @@
 
 
 
-#### 원하는 종류 별로 분류
+### 원하는 종류 별로 분류
 ![그림1바꿈](https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/0d6c2b9d-7f75-4498-ae5d-eaa1ec134fcf)
