@@ -18,7 +18,7 @@
 2. 신고 사이트에 사진을 첨부하면 멸종위기종/ 교란종 식별을 해준다. 이외의 것은 신고가 안된다.
 
 ### 메인 화면 페이지
-https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/86b631e3-ebbc-4c3b-a625-8f7480833411
+<img src="https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/86b631e3-ebbc-4c3b-a625-8f7480833411">
 <br>
 
 
