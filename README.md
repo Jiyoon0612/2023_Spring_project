@@ -14,6 +14,8 @@
 <br>
 
 ## 구현 기능
+1. 사용자에게  멸종위기종/ 교란종 정보를 제공해준다.
+2. 신고 사이트에 사진을 첨부하면 멸종위기종/ 교란종 식별을 해준다. 이외의 것은 신고가 안된다.
 
 ### 메인 화면 페이지
 https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/86b631e3-ebbc-4c3b-a625-8f7480833411
@@ -35,7 +37,16 @@ https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/86b631e3-ebbc
 <p align="left">
   
 ### 멸종위기종/ 교란종 신고 시스템
-<img src ="https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/a184eccd-9672-4dd4-a6de-f857002ea738"><img src ="https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/81bae29a-5fbf-410a-93a7-44f4fff34ffe">
+<br>
+
+##### 이미지를 첨부했을 경우 
+<br?
+
+<img src ="https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/a184eccd-9672-4dd4-a6de-f857002ea738">
+<br?
+
+##### 이미지를 첨부하고 신고를 눌렀을 경우 
+<img src ="https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/81bae29a-5fbf-410a-93a7-44f4fff34ffe">
 <br>
 
 </p>
@@ -43,9 +54,8 @@ https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/86b631e3-ebbc
 ## 배운 점 & 아쉬운 점
 
 <p align="justify">
- 1. 3D 요소의 구조와 조도와 카메라 시점에 대해 공부해야한다고 느꼈다.
+ 1. 신고사이트 부분의 AI를 학습시켜 판별하는 부분에서 정확도가<br>
+  완벽하지 않아 추후에 더많은 데이터를 학습 시켜서 보완해야겠다고 느꼈다.
 <br>
- 2. React의 자세한 학습의 필요성을 느꼈다.
 </p>
-
 <br>
