@@ -40,7 +40,7 @@
 <br>
 
 ##### 이미지를 첨부했을 경우 
-<br?
+<br>
 
 <img src ="https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/a184eccd-9672-4dd4-a6de-f857002ea738">
 <br?
