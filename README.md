@@ -43,7 +43,7 @@
 <br>
 
 <img src ="https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/a184eccd-9672-4dd4-a6de-f857002ea738">
-<br?
+<br>
 
 ##### 이미지를 첨부하고 신고를 눌렀을 경우 
 <img src ="https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/81bae29a-5fbf-410a-93a7-44f4fff34ffe">
