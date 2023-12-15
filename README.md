@@ -35,8 +35,7 @@ https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/86b631e3-ebbc
 <p align="justify">
   
 ### 멸종위기종/ 교란종 신고 시스템
-
-<img src ="https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/0d6c2b9d-7f75-4498-ae5d-eaa1ec134fcf">
+<img src ="https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/a184eccd-9672-4dd4-a6de-f857002ea738"><img src ="https://github.com/Jiyoon0612/2023_Spring_project/assets/137297934/81bae29a-5fbf-410a-93a7-44f4fff34ffe">
 <br>
 
 </p>
